@@ -5,9 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tufank0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tufank0" height="30" width="40" /></a>
-<a href="https://codesandbox.com/tufank9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tufank9" height="30" width="40" /></a>
-<a href="https://instagram.com/tufank0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tufank0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
